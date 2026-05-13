@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\netstandard2.1\Utilla By ACE.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\netstandard2.1\Utilla By ACE.dll
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.csproj.AssemblyReference.cache
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.IgnoresAccessChecksTo.cs
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.AssemblyInfoInputs.cache
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.AssemblyInfo.cs
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.csproj.CoreCompileInputs.cache
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla B.591E6617.Up2Date
+C:\Users\mason\Downloads\Utilla-1.7.0\Utilla-1.7.0\Utilla By ACE\obj\Release\netstandard2.1\Utilla By ACE.dll
